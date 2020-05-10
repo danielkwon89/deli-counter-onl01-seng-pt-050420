@@ -13,5 +13,5 @@ def line(array)
   end #if statement
 end #line method
 
-def take_a_number()
+def take_a_number(array, name)
 end
