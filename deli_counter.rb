@@ -6,6 +6,6 @@ def line(array)
     array.each do |name|
       puts "#{counter}. #{name} "
       counter += 1
-    end #each iterator
+  end #each iterator
   end #if statement
 end #line method
