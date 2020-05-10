@@ -15,4 +15,5 @@ end #line method
 
 def take_a_number(array, name)
   array.push(name)
+  puts array[-1]
 end
