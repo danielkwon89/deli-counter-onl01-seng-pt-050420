@@ -12,3 +12,6 @@ def line(array)
     puts name_string
   end #if statement
 end #line method
+
+def take_a_number()
+end
