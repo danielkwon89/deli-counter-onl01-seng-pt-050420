@@ -8,5 +8,5 @@ def line(array)
       counter += 1
     end #each iterator
   end #if statement
-end
+  end
 end #line method
