@@ -7,5 +7,5 @@ def line(array)
       puts "#{counter}. #{name} "
       counter += 1
     end #each iterator
-  end #else if statement
+  end #if statement
 end #line method
