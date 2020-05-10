@@ -8,6 +8,7 @@ def line(array)
       name_array.push("#{counter}. #{name} ")
       counter += 1
     end #each iterator
-    puts name_array
+    name_string = name_array.join
+    puts name_string
   end #if statement
 end #line method
