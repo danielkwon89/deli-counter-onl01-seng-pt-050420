@@ -5,7 +5,7 @@ def line(array)
     name_array = ["The line is currently:"]
     counter = 1
     array.each do |name|
-      name_array.push(" #{counter}. #{name} ")
+      name_array.push(" #{counter}. #{name}")
       counter += 1
     end #each iterator
     name_string = name_array.join
