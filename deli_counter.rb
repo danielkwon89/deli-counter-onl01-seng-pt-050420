@@ -5,5 +5,5 @@ def line(array)
     counter = 1
 
   end #if statement
-  end
+  
 end #line method
